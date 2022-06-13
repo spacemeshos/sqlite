@@ -17,7 +17,7 @@ package sqlite_test
 import (
 	"testing"
 
-	"crawshaw.io/sqlite"
+	"github.com/spacemeshos/sqlite"
 )
 
 func TestFunc(t *testing.T) {

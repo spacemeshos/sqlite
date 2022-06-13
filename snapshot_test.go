@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"crawshaw.io/sqlite"
-	"crawshaw.io/sqlite/sqlitex"
+	"github.com/spacemeshos/sqlite"
+	"github.com/spacemeshos/sqlite/sqlitex"
 )
 
 var db = fmt.Sprintf("%v/snapshot_test_%v.sqlite3",
