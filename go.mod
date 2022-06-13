@@ -1,4 +1,4 @@
-module spacemeshos/sqlite
+module github.com/spacemeshos/sqlite
 
 go 1.12
 
