@@ -19,7 +19,7 @@ import (
 	"runtime"
 	"strings"
 
-	"crawshaw.io/sqlite"
+	"github.com/spacemeshos/sqlite"
 )
 
 // Save creates a named SQLite transaction using SAVEPOINT.

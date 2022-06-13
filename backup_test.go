@@ -17,8 +17,8 @@ package sqlite_test
 import (
 	"testing"
 
-	"crawshaw.io/sqlite"
-	"crawshaw.io/sqlite/sqlitex"
+	"github.com/spacemeshos/sqlite"
+	"github.com/spacemeshos/sqlite/sqlitex"
 )
 
 func initSrc(t *testing.T) *sqlite.Conn {

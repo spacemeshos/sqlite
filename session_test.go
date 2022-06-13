@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"crawshaw.io/sqlite"
-	"crawshaw.io/sqlite/sqlitex"
+	"github.com/spacemeshos/sqlite"
+	"github.com/spacemeshos/sqlite/sqlitex"
 )
 
 func initT(t *testing.T, conn *sqlite.Conn) {

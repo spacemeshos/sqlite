@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"crawshaw.io/sqlite"
+	"github.com/spacemeshos/sqlite"
 )
 
 func TestExec(t *testing.T) {
