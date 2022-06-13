@@ -1,4 +1,4 @@
-module crawshaw.io/sqlite
+module spacemeshos/sqlite
 
 go 1.12
 
